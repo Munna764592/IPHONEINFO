@@ -1,5 +1,6 @@
 # IPHONEINFO
 Some Description for the installation of the app!
+I have also uploaded build folder to setup easily!!
 
 #First install the react app using - npx i create-react-app folder_name.(through terminal)
 
